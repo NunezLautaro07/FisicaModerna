@@ -1,5 +1,5 @@
 .imagen-podcast {
-    width: 100%;
+    
     border-radius: 7px;
 }
 a {
@@ -61,6 +61,10 @@ a {
         margin-left: 6%;
     }
 }
+@media (min-width: 995px){
+    .altura-podcast{max-height: 150px;}
+}
 .margen-pdf {
     margin-right: 5px;
 }
+.altura-img{max-height: 150px;}
