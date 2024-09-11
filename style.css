@@ -67,4 +67,6 @@ a {
 .margen-pdf {
     margin-right: 5px;
 }
-.altura-img{max-height: 150px;}
+.altura-img{max-height: 125px;
+    border-radius: 7px;
+}
