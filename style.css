@@ -73,6 +73,7 @@ min-width: 50%;}
 }
 @media (max-width: 995px){
     .altura-img{max-height: 210px;
+        max-width: 100%;
         border-radius: 7px;
     }
 }
