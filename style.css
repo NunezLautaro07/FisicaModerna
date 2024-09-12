@@ -63,10 +63,17 @@ a {
 }
 @media (min-width: 995px){
     .altura-podcast{max-height: 150px;}
+    .altura-img{max-height: 125px;
+    max-width: 100%;
+    border-radius: 7px;
+min-width: 50%;}
 }
 .margen-pdf {
     margin-right: 5px;
 }
-.altura-img{max-height: 125px;
-    border-radius: 7px;
+@media (max-width: 995px){
+    .altura-img{max-height: 210px;
+        border-radius: 7px;
+    }
 }
+
