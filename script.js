@@ -97,6 +97,27 @@ document.addEventListener('DOMContentLoaded', () => {
         audio: "/files/Antipartículas.ogg",
         audioId: "audio-10",
       },
+      {
+        titulo: "Leptones y Quarks",
+        descripcion:
+         "Los quarks y leptones son tipos de particulas fundamentales que componen la materia y son considerados los ladrillos de construcción básico del universo según el Modelo Estándar.",
+        imagen: "/files/Leptones y Quarks.jpeg",
+        pdf: "/files/Leptones y Quarks.pdf",
+        audio: "/files/Leptones y Quarks.ogg",
+        audioId: "audio-11",
+      },
+      {
+        titulo: "Radioactividad, neutrinos, oscilaciones de neutrinos.",
+        descripcion:
+         `La radioactividad corresponde a la emisión de radiación  de núcleos atómicos inestables. Hay tres tipos de radiación: alfa, beta y gama.
+Los neutrinos son particulas elementales que son muy difíciles de detectar, tiene una masa muy, muy pequeña, espín 1/2, no tiene carga. 
+Los tipos de neutrinos son: eléctricos, muonicos y tauonicos. 
+Las oscilaciones de neutrinos correponde a las transformaciones de un tipo de neutrino a otro.`,
+        imagen: "/files/Radioactividad, neutrinos, oscilaciones de neutrinos..png",
+        pdf: "/files/Radioactividad, neutrinos, oscilaciones de neutrinos..pdf",
+        audio: "/files/Radioactividad, neutrinos, oscilaciones de neutrinos..ogg",
+        audioId: "audio-12",
+      },
     ];
   
     // Selecciona el contenedor de los podcasts
