@@ -127,6 +127,69 @@ Las oscilaciones de neutrinos correponde a las transformaciones de un tipo de ne
         audio: "Bosones, fermiones y el espín..ogg",
         audioId: "audio-13",
       },
+      {
+        titulo: "Interacciones fundamentales.",
+        descripcion:
+        "Las cuatro interacciones fundamentales que se encuentran en la naturaleza son: gravitatoria, electromagnética, nuclear débil y nuclear fuerte.",
+        imagen: "Interacciones fundamentales..jpeg",
+        pdf: "Interacciones fundamentales..pdf",
+        audio: "Interacciones fundamentales..ogg",
+        audioId: "audio-14",
+      },
+      {
+        titulo: "Rayos Cósmicos",
+        descripcion:
+        "Los rayos  cosmicos son particulas con mucha energía que llegan a la Tierra procedentes del espacio exterior.",
+        imagen: "Rayos Cósmicos.jpeg",
+        pdf: "Rayos Cósmicos.pdf",
+        audio: "Rayos Cósmicos.ogg",
+        audioId: "audio-15",
+      },
+      {
+        titulo: "Big Bang - inflación",
+        descripcion:
+        "El Big Bang es la teoría que permite explicar la forma en que comenzó el universo. La inflación corresponde a propuestas para explicar la expansión del universo en los instantes  iniciales.",
+        imagen: "Big Bang - inflación.jpeg",
+        pdf: "Big Bang - inflación.pdf",
+        audio: "Big Bang - inflación.ogg",
+        audioId: "audio-16",
+      },
+      {
+        titulo: "Fondo Cósmico de Microondas.",
+        descripcion:
+        "El Fondo Cósmico de Microondas es la radiación más antigua que podemos observar en el universo. Este al irse expandiendo, la radiación comenzó a disminuir su temperatura, la cual hoy es de 2,72 K (Kelvin).",
+        imagen: "Fondo Cósmico de Microondas..jpeg",
+        pdf: "Fondo Cósmico de Microondas..pdf",
+        audio: "Fondo Cósmico de Microondas..ogg",
+        audioId: "audio-17",
+      },
+      {
+        titulo: "Superconductores-superfluidez",
+        descripcion:
+        "La superfluidez se caracteriza cuando un líquido tiene viscosidad cero. La superconductividad  se caracteriza por tener cero resistencia eléctrica. Estos fenómenos se logran cuando su temperatura es extremadamente baja.",
+        imagen: "Superconductores-superfluidez.jpeg",
+        pdf: "Superconductores-superfluidez.pdf",
+        audio: "Superconductores-superfluidez.ogg",
+        audioId: "audio-18",
+      },
+      {
+        titulo: "Sistemas Caóticos.",
+        descripcion:
+        "Los sistemas caoticos corresponden a sistemas que con pequeñas  variaciones en dichas condiciones iniciales implican grandes variaciones en el comportamiento futuro, sin poder predecir a largo plazo.",
+        imagen: "Sistemas Caóticos..jpeg",
+        pdf: "Sistemas Caóticos..pdf",
+        audio: "Sistemas Caóticos..ogg",
+        audioId: "audio-19",
+      },
+      {
+        titulo: "Entropía.",
+        descripcion:
+        "Es una magnitud física que mide la cantidad de energía no utilizable para realizar trabajo. Se expresa como el cociente entre el calor cedido y la temperatura.",
+        imagen: "Entropía..png",
+        pdf: "Entropía..pdf",
+        audio: "Entropía..ogg",
+        audioId: "audio-20",
+      },
     ];
   
     // Selecciona el contenedor de los podcasts
