@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
         descripcion:
           "Las lentes gravitacionales es un fenómeno formado cuando la luz que procede de objetos lejanos y brillantes se curvan alrededor de un objeto de gran tamaño, el cual está ubicado entre el emisor y receptor.",
         imagen: "lentes gravitacionales.jpeg",
-        pdf: "Lentes GravitacionalesR.pdf",
+        pdf: "Lentes Gravitacionales.pdf",
         audio: "lentes gravitacionales.ogg",
         audioId: "audio-5",
       },
