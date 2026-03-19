@@ -212,7 +212,7 @@ Las oscilaciones de neutrinos correponde a las transformaciones de un tipo de ne
               <br /> ${podcast.descripcion}
               <br />
               <div class="mt-2">
-                <a href="/files/${podcast.pdf}" download class="fa fa-file-pdf margen-pdf"></a>
+                <a href="/files/${podcast.pdf}" download onclick="gtag('event','pdf_download',{file:'${podcast.pdf}'})" class="fa fa-file-pdf margen-pdf"></a>
                 <i class="fa-solid fa-circle-play play-button" data-id="${podcast.audioId}"></i>
                 <audio id="${podcast.audioId}" src="/files/${podcast.audio}"></audio>
               </div>
@@ -246,6 +246,7 @@ Las oscilaciones de neutrinos correponde a las transformaciones de un tipo de ne
         // Reproducir o pausar el audio seleccionado
         if (audio.paused) {
           audio.play();
+            gtag('event','audio_play',{audio: audio.src});
           button.classList.remove('fa-circle-play');
           button.classList.add('fa-pause');
         } else {
